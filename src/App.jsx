@@ -4,6 +4,7 @@ import viteLogo from "/vite.svg";
 import "./App.css";
 
 function App() {
+<<<<<<< HEAD
   const [isShown, setIsShown] = useState(false);
 
   return (
@@ -46,6 +47,16 @@ function App() {
       )}
     </div>
   );
+=======
+ 
+
+  return (
+    <>
+     
+     
+    </>
+  )
+>>>>>>> f31aff70b0383226b032c6008deb69e2ae26d676
 }
 
 export default App;
